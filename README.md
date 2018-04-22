@@ -9,7 +9,7 @@ The number of lines of code is
 ### RUN
 This Program was RUN on Saturday April 21 al 21.10
 ### Lines Of Code
-It has 26 lines.
+It has 30 lines.
 ### Help
 I can´t generate this file using makefile. :(
 
